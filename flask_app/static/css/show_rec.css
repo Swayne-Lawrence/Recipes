@@ -1,0 +1,27 @@
+.logout{
+    position: relative;
+    bottom: 40px;
+}
+.line{
+    display: flex;
+    
+}
+p{
+    
+    position: relative;
+    top: 1px;
+    left: 50px;
+    justify-self: right;
+}
+#recipe{
+    border-style: solid;
+    border-color: black;
+}
+textarea{
+    position: relative;
+    top: 1px;
+    left: 50px;
+    justify-self: right;
+    border: none;
+    outline: none;
+}
